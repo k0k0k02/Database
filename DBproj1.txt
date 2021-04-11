@@ -1,0 +1,47 @@
+제출: er diagram, schema diagram
+
+[자동차 회사 DB설계]
+if service를 entity로 하겠다
+-> 이 entity안에 어떤 속성을 사용하여 기본키, 외래키~
+
+minimal조건을 정하는게 좋음
+끝까지 읽어야 감이 올거임
+
+회사 사이트 들어가서 데이터 직접 만들것
+
+1. er diagram 수업시간대로
+- 중복을 최대한 제거
+- 설명되어있는건 최소한이라 생각하고 필요한거 추가하는 방향
+- primary key, relationship cardinalities 등 명확하게
+
+2. schema diagram -교재, 수업시간 토대로
+- 중복을 최대한 제거 (중복이 많다고 문제가 생기는건 아님)
+
+3. 쿼리
+- 직접 sql짜는건 아님
+- 클라이언트의 요청을 토대로 db를 짤 것임
+- 힌트가 될 것이라 생각해서 추가한 것
+
+er diagram은 powerpoint나 word등을 통해 그림을 만들어서 제출 손x
+- 1장이 제일 좋지만 장 수가 많아지더라도 알아 볼 수 있게 명확하게 그릴 것
+relational schema
+- erwin file? 설치하게 공지해줄 것
+- 20161588.erwin
+report file
+- 장황하게 하기보다는 핵심만 작성할 것
+- 읽는 사람을 이해시킨다는 방향으로
+- 그림을 가져와도 되고 자유롭게
+
+- 4월 16일까지. 3주남음
+[DBproject1]20161588
+sogang879@gmail.com
+
+[소프트 카피]
+er diagram 캡처,
+erwin 파일,
+레포트
+
+[하드 카피]
+er diagram 출력,
+레포트
+AS816
